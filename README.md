@@ -1,4 +1,4 @@
-# Pós-Graduação Lato Sensu em Saúde Digital - UFG
+# Pós-Graduação Lato Sensu em Saúde Digital
 ## Micro 25: Modelagem da informação em saúde
 ### Você sabe realizar uma modelagem clínica/administrativa e entende como isso pode apoiar na transformação digital nos serviços de saúde?
 <br>
