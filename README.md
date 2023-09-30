@@ -18,3 +18,7 @@
       <li>Perfilar recurso nativo do FHIR (personalização dos recursos, fazendo as adaptações para o contexto local).</li>
     </ul>
 </ul>
+
+<br>
+
+![map](https://github.com/RenanBorba/EstudoDeCaso-Micro27-SD/assets/48495838/7fe29c5c-31eb-4df7-b24e-fa9718fe878a)
